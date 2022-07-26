@@ -2,4 +2,4 @@
 
 ## Summary
 
- This repository contains all of the notes taken by Netsanet for the Lighthouse Labs Web Development Bootcamp.
+ This repository contains all of the notes taken by [Netsanet](https://github.com/netsiemmanuel) for the [Lighthouse Labs Web Development Bootcamp](https://lighthouselabs.com).
